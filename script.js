@@ -4,9 +4,9 @@ button.addEventListener("click",function(){
     let value2 = document.getElementById('value2')
     let value3 = document.getElementById('value3')
     let won =document.getElementById('won')
-    value1.style.animation="slotspin calc(1s / var(--speed)) 26";
-    value2.style.animation="slotspin calc(1s / var(--speed)) 26";
-    value3.style.animation="slotspin calc(1s / var(--speed)) 26";
+    value1.style.animation="slotspin calc(1s / var(--speed)) 27";
+    value2.style.animation="slotspin calc(1s / var(--speed)) 27";
+    value3.style.animation="slotspin calc(1s / var(--speed)) 27";
     let inpSpeed = document.getElementById('inpSpeed')
     
     let values = [
